@@ -7,5 +7,5 @@ Acceptable unit types: meters, kilometers, centimeters, millimeters, micrometers
 
 * Unit abbrevations also accepted!
 
-###This was my first C++ project, please don't judge me
+This was my first C++ project, please don't judge me
 
